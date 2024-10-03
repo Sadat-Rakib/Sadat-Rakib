@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadat-rakib" alt="sadat-rakib" /></a> </p>
 
-- 🔭 I’m currently working on **meta front-end and meta back-end courses**
+- 🔭 I’m currently working on **Meta Front-End & Meta Back-End courses**
 
-- 📝 I will start writing articles on [https://medium.com/@smir100824](https://medium.com/@smir100824)
+- 📝 I will start writing articles on [https://medium.com/@smir100824](https://medium.com/@smir100824) so keep an eye out!
 
-- 💬 Ask me about **DSA, Python,  GO, Full-Stack Development, and etc**
+- 💬 Ask me about **DSA, Python,  GO, Full-Stack Development, and etc!**
 
-- 📫 How to reach me **smir100824@gmail.com**
+- 📫 Reach me on **smir100824@gmail.com**
 
 - ⚡ Wild Fact **Don't Doubt Yourself, Do It!**
 
