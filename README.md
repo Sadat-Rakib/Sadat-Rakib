@@ -1,19 +1,19 @@
-<h1 align="center">🎁 How Ya Doin, I'm Mir Sadat Bin Rakib</h1>
-<h3 align="center">An aspiring full-stack developer! Open - source contributor . In Love With DSA! 🎉🎊</h3>
+<h1 align="center">🎁🎉 Greetings, I'm Mir Sadat Bin Rakib</h1>
+<h3 align="center">An aspiring Front-End Developer! Open - source contributor . In Love With DSA and Javascript! 🎉🎊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadat-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="sadat-rakib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadat-rakib" alt="sadat-rakib" /></a> </p>
 
-- 🔭 I’m currently working on **Meta Front-End & Meta Back-End courses**
+- 🔭 I’m currently working on **Meta Front-End Course & Building Various Types of Websites Using MY Expertise in Front-End Development**
 
 - 📝 I will start writing articles on [https://medium.com/@smir100824](https://medium.com/@smir100824) so keep an eye out!
 
-- 💬 Ask me about **DSA, Python,  GO, Full-Stack Development, and etc!**
+- 💬 Ask me about **DSA, Python, GO, Javascript, HTML, CSS, React.Js, Vanilla JS, Angular.JS, and etc!**
 
-- 📫 Reach me on **smir100824@gmail.com**
+- 📫 Reach me on **sadatmir13@gmail.com**
 
-- ⚡ Wild Fact **Don't Doubt Yourself, Do It!**
+- ⚡ Wild Fact & Truth **"Your ability to doubt yourself is your inability to succeed" - Mir Sadat Bin Rakib !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
