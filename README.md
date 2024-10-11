@@ -1,5 +1,5 @@
 <h1 align="center">🎁🎉 Greetings, I'm Mir Sadat Bin Rakib</h1>
-<h3 align="center">An aspiring Front-End Developer! Open - source contributor . In Love With DSA and Javascript! 🎉🎊</h3>
+<h3 align="center">An aspiring Front-End Developer! Open - source contributor . In Love With ES6+ & DSA! 🎉🎊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadat-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="sadat-rakib" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I will start writing articles on [https://medium.com/@smir100824](https://medium.com/@smir100824) so keep an eye out!
 
-- 💬 Ask me about **DSA, Python, GO, Javascript, HTML, CSS, React.Js, Vanilla JS, Angular.JS, and etc!**
+- 💬 Ask me about **ES6+, HTML5, CSS, Tailwind CSS, Bootstrap, React.Js, Vanilla JS, Angular.JS, Python, Golang, DSA and etc!**
 
 - 📫 Reach me on **sadatmir13@gmail.com**
 
