@@ -1,5 +1,5 @@
 <h1 align="center">🎁🎉 Greetings, I'm Mir Sadat Bin Rakib</h1>
-<h3 align="center">An aspiring Front-End Developer! Open - source contributor . In Love With ES6+ & DSA! 🎉🎊</h3>
+<h3 align="center">A Front-End Developer! Open - source contributor . In Love With ES6+ & DSA! 🎉🎊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadat-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="sadat-rakib" /> </p>
 
