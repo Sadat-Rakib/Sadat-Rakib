@@ -1,15 +1,15 @@
 <h1 align="center">🎁🎉 Greetings, I'm Mir Sadat Bin Rakib</h1>
-<h3 align="center">A Front-End Developer! Open - source contributor . In Love With ES6+ & DSA! 🎉🎊</h3>
+<h3 align="center">An aspiring Full-Stack Developer! In Love With JS, Python, React, MongoDB, Node.js & DSA! 🎉🎊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadat-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="sadat-rakib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadat-rakib" alt="sadat-rakib" /></a> </p>
 
-- 🔭 I’m currently working on **Meta Front-End Course & Building Various Types of Websites Using MY Expertise in Front-End Development**
+- 🔭 I’m currently working on **Building Various Types of Websites Using MY Expertise in Front-End Development**
 
 - 📝 I will start writing articles on [https://medium.com/mirsadatbinrakib01](https://medium.com/@mirsadatbinrakib01) so keep an eye out!
 
-- 💬 Ask me about **ES6+, HTML5, CSS3, React.Js, Angular.js, Next.js, Vanilla JS, DSA, Material UI, Web components, REST APIs, Browser APIs, Git and etc!**
+- 💬 Ask me about **JS, Python, HTML5, CSS3, React.Js, Next.js, Tailwind CSS, Express.js, DSA, Material UI, Web components, REST APIs, Browser APIs, Git and etc!**
 
 - 📫 Reach me on **mirsadatbinrakib01@gmail.com**
 
