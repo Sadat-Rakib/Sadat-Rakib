@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Mir Sadat Bin Rakib</h1>
-<h3 align="center">An aspiring Full Stack Developer currently pursuing a BSc in Computing Science & Mathematics at the University of Alberta. Passionate about building scalable web applications and solving real-world problems with technology. Actively learning modern frameworks, backend architectures, and AI-driven solutions to enhance user experiences.</h3>
+<h3 align="center">An aspiring Full Stack Developer, currently pursuing a BSc in Computing Science & Mathematics at the University of Alberta. Passionate about building scalable web applications and solving real-world problems with technology. Actively learning modern frameworks, backend architectures, and AI-driven solutions to enhance user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadat-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="sadat-rakib" /> </p>
 
