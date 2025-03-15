@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sadat_03" target="blank"><img src="https://img.shields.io/twitter/follow/sadat_03?logo=twitter&style=for-the-badge" alt="sadat_03" /></a> </p>
 
-- 🔭 I’m currently **Enhancing my full-stack development skills by building various projects.**
+- 🔭 I’m currently **Learning & enhancing my full-stack development skills by building various projects.**
 
 - 🌱 I’m currently learning **Data structures, algorithms, and backend development to create scalable applications. Exploring AI/ML integration into web applications for innovative solutions.**
 
