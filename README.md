@@ -26,6 +26,5 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sadat-rakib&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6" /> </p>
 📈 GitHub Stats
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sadat-rakib&show_icons=true&theme=react&count_private=true" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-rakib&layout=compact&theme=react" /> </div>
-🔥 Gradient Divider
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
