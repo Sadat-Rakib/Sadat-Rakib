@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mir Sadat Bin Rakib 👋</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Computing Science & Mathematics @ University of Alberta</h3>
+<h3 align="center">🚀 Front-End Developer | Computing Science & Mathematics @ University of Alberta</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sadat-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
