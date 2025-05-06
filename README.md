@@ -72,10 +72,6 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-rakib&layout=compact&theme=react" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadat-rakib&theme=react&hide_border=false" />
-</p>
-
 ---
 
 <p align="center">
