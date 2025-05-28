@@ -82,14 +82,6 @@
 
 ---
 
-## 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadat-rakib&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
