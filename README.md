@@ -14,8 +14,8 @@
 
 ## 💡 Who Am I?
 
-- 🔭 Currently: Building real-world full stack applications  
-- 🌱 Learning: Backend Engineering | AI Integration | Advanced DSA  
+- 🔭 Currently: AI Full Stack Developer | Building real-world problem solving applications  
+- 🌱 Learning:  Advanced DSA  
 - 🛠️ Passionate about prototyping scalable ideas  
 - 📝 Coming soon: Writing on [dev.to/sadat_rakib](https://dev.to/sadat_rakib)  
 - 📫 Reach me at: **mirsadatbinrakib01@gmail.com**
