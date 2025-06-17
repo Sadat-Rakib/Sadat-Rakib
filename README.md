@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=AI+Full-Stack+Developer;CS+%26+Math+@+UofA;Building+Next-Gen+Web+Experiences;Turning+Ideas+Into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=AI+Full-Stack+Developer;CS+%26+Math+@+UofA;Algoverse+AI+Research+Fellow+2025;Building+AI-Enhanced+Web+Apps;Turning+Ideas+Into+Products" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -14,10 +14,11 @@
 
 ## 💡 Who Am I?
 
-- 🔭 Currently: AI Full Stack Developer | Building real-world problem solving applications  
-- 🌱 Learning:  Advanced DSA  
-- 🛠️ Passionate about prototyping scalable ideas  
-- 📝 Coming soon: Writing on [dev.to/sadat_rakib](https://dev.to/sadat_rakib)  
+- 🎓 **Algoverse AI Research Fellow '25** | **Harvard (HVTSP) Invitee '25**
+- 🔭 Currently: Building real-world AI applications & intelligent web experiences  
+- 🌱 Exploring: AI Agents, Autonomous Workflows, and Automation with n8n  
+- 🛠️ Passionate about prototyping scalable ideas and deploying impact  
+- 📝 Writing soon on [dev.to/sadat_rakib](https://dev.to/sadat_rakib)  
 - 📫 Reach me at: **mirsadatbinrakib01@gmail.com**
 
 > 🧠 **Quote I Live By**  
@@ -57,17 +58,15 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🧠 AI / ML  
+### 🧠 AI / Automation  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-2B3137?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-AE3F5E?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### ☁️ MLOps  
+### ☁️ Cloud & DevOps  
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
