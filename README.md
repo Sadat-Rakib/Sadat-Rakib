@@ -13,6 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=sadat-rakib&style=flat-square&label=👁%20Profile%20Views&color=blueviolet" />
 </p>
 
+<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+
 ---
 
 ## 💡 About Me
