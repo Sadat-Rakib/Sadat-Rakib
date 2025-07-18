@@ -15,15 +15,12 @@
 
 ---
 
-## 💡 About Me
-
-🚀 **Founder & CEO @CashVA** — Building an AI-powered finance platform for SMEs and freelancers  
-🎓 **Algoverse AI Research Fellow ’25** | **Harvard HVTSP ’25 Invitee**  
-👨‍💻 Front-End & UI Engineer | Turning complex AI logic into intuitive and performant interfaces  
-🧠 Obsessed with clean design, component-driven architecture, and elegant UX flows  
-🌍 Based in Edmonton | BSc in Computing Science & Mathematics @ UofA  
-📝 Writing soon at [dev.to/sadat_rakib](https://dev.to/sadat_rakib)
-
+* * 🚀 Founder & CEO @CashVA — Leading development of an AI-powered finance platform for SMEs and freelancers* * 
+* * 🎓 Algoverse AI Research Fellow ’25 | Harvard HVTSP ’25 Invitee** 
+👨‍💻 AI Full Stack Developer — Building scalable web apps with React, Node.js, and practical AI integrations
+🎯 Passionate about clean architecture, real-time UX, and component-driven development
+🌍 Based in Canada | BSc in Computing Science & Mathematics, University of Alberta
+📝 Writing soon at dev.to/sadat_rakib
 > 🧠 **Quote I Live By**  
 > `"Your ability to doubt yourself is your inability to succeed"`  
 > — *Mir Sadat Bin Rakib*
