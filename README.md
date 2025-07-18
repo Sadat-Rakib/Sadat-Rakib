@@ -120,3 +120,5 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6dd5ed,2193b0&height=100&section=footer" />
   </picture>
 </p>
+
+![snake gif](https://github.com/Sadat-Rakib/Sadat-Rakib/blob/output/github-contribution-grid-snake.gif)
