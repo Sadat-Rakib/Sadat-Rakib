@@ -5,6 +5,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Masterhead Coding Animation" width="200" height="200" />
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=AI+Full+Stack+Developer+%7C+Clean+UIs+%2B+Smart+Backends;Algoverse+AI+Research+Fellow+'25;Harvard+(HUVTSP)+Invitee+'25;CS+%26+Math+@+University+of+Alberta;React,+TypeScript,+Three.js,+Supabase;Crafting+Stunning+AI+UIs+%2B+Realtime+3D+Experiences" alt="Typing SVG" />
 </h3>
@@ -13,14 +17,16 @@
   <img src="https://komarev.com/ghpvc/?username=sadat-rakib&style=flat-square&label=👁%20Profile%20Views&color=blueviolet" />
 </p>
 
-<img align="right" alt="Coding" width="500" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-
 ---
 
 ## 💡 About Me
 
+<table>
+<tr>
+<td width="65%">
+
 🚀 **Founder & CEO @CashVA** — Building an AI-powered finance platform for SMEs & freelancers  
-🎓 **Algoverse AI Research Fellow ’25** | **Harvard HVTSP ’25 Invitee**  
+🎓 **Algoverse AI Research Fellow '25** | **Harvard HVTSP '25 Invitee**  
 🧠 **AI Full Stack Developer** — Merging clean UI with intelligent backends  
 🎯 Focused on performant UIs, real-time systems & human-centered automation  
 🌍 Based in Canada | BSc in Computing Science & Mathematics, UofA  
@@ -30,6 +36,13 @@
 > — *Mir Sadat Bin Rakib*
 
 📫 **Contact:** mirsadatbinrakib01@gmail.com
+
+</td>
+<td width="35%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Development Animation" width="180" height="180" />
+</td>
+</tr>
+</table>
 
 ---
 
