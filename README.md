@@ -31,15 +31,6 @@
 
 ---
 
-## 🧠 Featured Interactive Demo
-
-> 🤖 [**Try My Live 3D Robot UI + Theme Switcher**](https://sadat-rakib.github.io/profile-3d-theme)
-
-Powered by Three.js + Real-time Interactivity + Responsive Controls  
-[🔗 Source Code](https://github.com/Sadat-Rakib/profile-3d-theme)
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -84,7 +75,6 @@ Powered by Three.js + Real-time Interactivity + Responsive Controls
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
 
