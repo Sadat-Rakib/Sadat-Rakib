@@ -1,9 +1,15 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=180&section=header&text=Hi%20I'm%20Mir%20Sadat%20Bin%20Rakib&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6dd5ed,2193b0&height=180&section=header&text=Hi%20I'm%20Mir%20Sadat%20Bin%20Rakib&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-  </picture>
-</p>
+<div align="center">
+ <p align="center">
+<!--    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF"> -->
+ 
+   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80%"  />
+</div>
+
+
+<!--<img src="https://count.getloli.com/@:adityapandeyadp" width="100%"/>
+-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Masterhead Coding Animation" width="200" height="200" />
@@ -17,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=sadat-rakib&style=flat-square&label=👁%20Profile%20Views&color=blueviolet" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 💡 About Me
 
@@ -44,7 +50,7 @@
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 🌐 Let's Connect
 
@@ -56,7 +62,7 @@
   <a href="https://leetcode.com/sadat_07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -102,7 +108,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -110,7 +116,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sadat-rakib&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -119,7 +125,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-rakib&layout=compact&theme=github_dark" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 ## 📈 Contribution Graph
 
@@ -127,7 +133,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadat-rakib&theme=github-compact" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
 <p align="center">
   <picture>
