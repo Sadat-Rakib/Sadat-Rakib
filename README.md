@@ -31,12 +31,12 @@
 <tr>
 <td width="65%">
 
-🚀 **Founder & CEO @CashVA** — Building an AI-powered finance platform for SMEs & freelancers  
-🎓 **Algoverse AI Research Fellow '25** | **Harvard HVTSP '25 Invitee**  
-🧠 **AI Full Stack Developer** — Merging clean UI with intelligent backends  
-🎯 Focused on performant UIs, real-time systems & human-centered automation  
+🚀 **Founder & CEO @CashVA** — Building next-gen AI-powered finance solutions for SMEs & freelancers  
+🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
+🧠 **AI Full Stack Engineer** — Crafting intelligent applications with clean UIs and powerful backends  
+🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
 🌍 Based in Canada | BSc in Computing Science & Mathematics, UofA  
-📝 Articles soon at [dev.to/sadat_rakib](https://dev.to/sadat_rakib)
+📝 Sharing insights at [dev.to/sadat_rakib](https://dev.to/sadat_rakib)
 
 > 💭 **"Your ability to doubt yourself is your inability to succeed."**  
 > — *Mir Sadat Bin Rakib*
