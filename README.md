@@ -31,9 +31,9 @@
 <tr>
 <td width="65%">
 
+💻 **AI Full Stack Developer @Daylily AI**  
 🚀 **Founder & CEO @CashVA** — Building next-gen AI-powered finance solutions for SMEs & freelancers  
 🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
-🧠 **AI Full Stack Engineer** — Crafting intelligent applications with clean UIs and powerful backends  
 🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
 🌍 Based in Canada | BSc in Computing Science & Mathematics, UofA  
 📝 Sharing insights at [dev.to/sadat_rakib](https://dev.to/sadat_rakib)
