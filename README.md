@@ -31,7 +31,7 @@
 <tr>
 <td width="65%">
 
-💻 **AI Full Stack Developer @velric-ai & Daylily AI**  
+💻 **Full Stack Developer @velric-ai & Daylily AI**  
 🚀 **Founder & CEO @CashVA** — Building next-gen AI-powered finance solutions for SMEs & freelancers  
 🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
 🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
