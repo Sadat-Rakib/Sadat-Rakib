@@ -31,8 +31,7 @@
 <tr>
 <td width="65%">
 
-💻 **Full Stack Developer @velric-ai & Daylily AI**  
-🚀 **Founder & CEO @CashVA** — Building next-gen AI-powered finance solutions for SMEs & freelancers  
+💻 **AI Prompt Engineer @AfterQuery & Full Stack Developer @velric-ai & Daylily AI**  
 🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
 🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
 🌍 Based in Canada | BSc in Computing Science & Mathematics, UofA  
