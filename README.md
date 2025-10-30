@@ -34,7 +34,7 @@
 💻 **AI Prompt Engineer @AfterQuery & Full Stack Developer @velric-ai**  
 🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
 🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
-🌍 Based in Canada | BSc in Computing Science & Mathematics, UofA  
+🌍 Based in Canada | BSc CS @ UofA  
 📝 Sharing insights at [dev.to/sadat_rakib](https://dev.to/sadat_rakib)
 
 > 💭 **"Your ability to doubt yourself is your inability to succeed."**  
