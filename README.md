@@ -30,12 +30,15 @@
 <table>
 <tr>
 <td width="65%">
-
-💻 **AI Prompt Engineer @AfterQuery & Full Stack Developer @velric-ai**  
+ 
+🚀| **Founder & CEO : @mirrin.design**
+🤖| **AI FullStack Developer | YC W25**
+💰| **Building digital experiences that convert**
+💻 **AI Engineer @AfterQuery (YC W'25)**  
 🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
 🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
 🌍 Based in Canada | BSc CS @ UofA  
-📝 Sharing insights at [dev.to/sadat_rakib](https://dev.to/sadat_rakib)
+📝 Sharing insights at [substack/mirsadatbinrakib](https://substack.com/@mirsadatbinrakib)
 
 > 💭 **"Your ability to doubt yourself is your inability to succeed."**  
 > — *Mir Sadat Bin Rakib*
