@@ -32,8 +32,8 @@
 <td width="65%">
  
 🚀| **Founder & CEO : @mirrin.design**
-🤖| **AI FullStack Developer | YC W25**
-💰| **Building digital experiences that convert**
+🤖| **AI FullStack Developer & Designer | YC W25**
+💰| **Creating websites & designs that convert**
 💻 **AI Engineer @AfterQuery (YC W'25)**  
 🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
 🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
