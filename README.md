@@ -126,23 +126,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadat-rakib&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sadat-rakib&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadat-rakib&layout=compact&theme=github_dark" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
-
 ## 📈 Contribution Graph
 
 <p align="center">
