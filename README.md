@@ -31,13 +31,11 @@
 <tr>
 <td width="65%">
  
-🚀| **Founder & CEO : @mirrin.design**
-🤖| **AI FullStack Developer & Designer | YC W25**
-💰| **Creating websites & designs that convert**
-💻 **AI Engineer @AfterQuery (YC W'25)**  
-🎓 **Harvard HUVTSP & Algoverse AI Research Fellow '25**  
-🎯 Focused on high-performance systems, real-time automation & human-centered AI experiences  
-🌍 Based in Canada | BSc CS @ UofA  
+🚀 Full-Stack Engineer & Designer | React · Next.js · TypeScript · Node.js · MongoDB · LLM APIs · Figma 
+🤖 Software Engineer Intern @AfterQuery (YC W'25) | Harvard Innovation Fellow
+💰 Shipped $50K+ in revenue · 5,500+ users · sub-200ms APIs
+🎓 BSc CS @ UofA · 4.0 GPA · Class of 2027
+🌍 Based in Canada · Open to internships
 📝 Sharing insights at [substack/mirsadatbinrakib](https://substack.com/@mirsadatbinrakib)
 
 > 💭 **"Your ability to doubt yourself is your inability to succeed."**  
