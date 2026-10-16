@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=AI+Full+Stack+Engineer+%7C+Clean+UIs+%2B+Smart+Backends;Algoverse+AI+Research+Fellow+'25;Harvard+(HUVTSP)+'25;CS+%26+@+University+of+Alberta;Next,js,+React,+TypeScript,+Three.js,+PostgreSQL;Crafting+Stunning+AI+UIs+%2B+Realtime+3D+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Clean+UIs+%2B+Smart+Backends;Designer+AfterQuery+Software+Engineer+;Harvard+(HUVTSP)+'25;CS+%26+@+University+of+Alberta;Next,js,+React,+TypeScript,+Three.js,+PostgreSQL;Crafting+Stunning+AI+UIs+%2B+Realtime+3D+Experiences" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -32,11 +32,10 @@
 <td width="65%">
  
 🚀 Full-Stack Engineer & Designer | React · Next.js · TypeScript · Node.js · MongoDB · LLM APIs · Figma 
-🤖 Software Engineer Intern @AfterQuery (YC W'25) | Harvard Innovation Fellow
-💰 Shipped $50K+ in revenue · 5,500+ users · sub-200ms APIs
-🎓 BSc CS @ UofA · 4.0 GPA · Class of 2027
-🌍 Based in Canada · Open to internships
-📝 Sharing insights at [substack/mirsadatbinrakib](https://substack.com/@mirsadatbinrakib)
+🤖 Software Engineer @AfterQuery (YC W'25) | Harvard Innovation Fellow
+💰 Shipped $50K+ in revenue · 10,000+ users 
+🎓 BSc CS @ UofA · 4.0 GPA 
+🌍 Open to opportunities
 
 > 💭 **"Your ability to doubt yourself is your inability to succeed."**  
 > — *Mir Sadat Bin Rakib*
@@ -55,12 +54,9 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://dev.to/sadat_rakib"><img src="https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mir-sadat-bin-rakib"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/msbr_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@mirsadatbinrakib01"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sadat_r05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/GrowWithSadat"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mirsadat.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
